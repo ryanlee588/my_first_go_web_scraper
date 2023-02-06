@@ -2,15 +2,15 @@
 
 ## Description
 
-'''
+```
 A Web scraper for techncrunch using Golang. Quick personal project to learn basic Goland syntax and web scraper functionalities
-'''
+```
 
 ## To use
 
 # In terminal
-'''bash
+```bash
 go run .
-'''
+```
 
 
